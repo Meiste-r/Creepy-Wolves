@@ -5,13 +5,13 @@
 	"name": "Creepy Wolves",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"Meiste-r"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "github.com/Meiste-r",
+		"sources": "https://github.com/Meiste-r/Creepy-Wolves"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/creepy-wolves/icon.png",
 	"environment": "*",
 	"entrypoints": {
